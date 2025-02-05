@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... opensource.
 - 📫 How to reach me ... you can message me.
 - 😄 Pronouns: ... thiha
-- ⚡ Fun fact: ... like code and jucices.
+- ⚡ Fun fact: ... like to code and jucices.
 
 <!---
 thihaswe-work/thihaswe-work is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
