@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thihaswe-work
 - 👀 I’m interested in ... computer science.
 - 🌱 I’m currently learning ... computer science.
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... opensource.
 - 📫 How to reach me ... you can message me.
 - 😄 Pronouns: ... thiha
 - ⚡ Fun fact: ...
