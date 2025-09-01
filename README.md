@@ -43,7 +43,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thihaswe-work&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thihaswe-works&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thihaswe-works&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=thihaswe-work&layout=compact" width="48%" />
 </p>
 
 
