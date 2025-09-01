@@ -41,6 +41,11 @@
 ![thihaswe-work's GitHub stats](https://github-readme-stats.vercel.app/api?username=thihaswe-work&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thihaswe-work&layout=compact)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thihaswe-work&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thihaswe-works&theme=radical" width="48%" />
+</p>
+
 
 
 <!--
