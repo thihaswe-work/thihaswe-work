@@ -52,9 +52,9 @@
 
 ### 📬 Contact
 
-- 🌐 Portfolio: [khamenkhai.dev](https://khamenkhai.web.app/)
-- 📧 Email: [khamenkhai7310@gmail.com](mailto:khamenkhai7310@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/khamenkhai](https://www.linkedin.com/in/khamenkhai)
+- 🌐 Portfolio: [khamenkhai.dev](https://thihaswe.vercel.app/)
+- 📧 Email: [khamenkhai7310@gmail.com](mailto:thihaswe-work@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/khamenkhai](https://www.linkedin.com/in/thihaswe)
 
 
 
