@@ -37,14 +37,17 @@
 
 <!-- You can uncomment these later when you're ready to display stats -->
 
-
+<!--
 ![thihaswe-work's GitHub stats](https://github-readme-stats.vercel.app/api?username=thihaswe-work&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thihaswe-work&layout=compact)
+-->
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thihaswe-work&show_icons=true&theme=radical" width="48%" height="30%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thihaswe-work&layout=compact" width="48%" height="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thihaswe-work&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thihaswe-work&layout=compact" width="48%" />
 </p>
+
 
 
 
