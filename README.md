@@ -44,8 +44,8 @@
 
 
 <div align="">
-  <div width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=thihaswe-work&show_icons=true&theme=dark" width="48%" />
+  <div width="50%" display="flex" >
+  <img src="https://github-readme-stats.vercel.app/api?username=thihaswe-work&show_icons=true&theme=dark"  />
   </div>
   <div width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thihaswe-work&layout=compact"  />
