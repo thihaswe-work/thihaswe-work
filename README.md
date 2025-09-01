@@ -43,7 +43,7 @@
 -->
 
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 50px;">
   <img src="https://github-readme-stats.vercel.app/api?username=thihaswe-work&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thihaswe-work&layout=compact"  />
 </div>
