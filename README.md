@@ -48,6 +48,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thihaswe-work&layout=compact"  />
 </div>
 
+---
+
+### 📬 Contact
+
+- 🌐 Portfolio: [khamenkhai.dev](https://khamenkhai.web.app/)
+- 📧 Email: [khamenkhai7310@gmail.com](mailto:khamenkhai7310@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/khamenkhai](https://www.linkedin.com/in/khamenkhai)
+
+
 
 
 
