@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thihaswe-work&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thihaswe-work&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thihaswe-work&layout=compact"  />
 </p>
 
 
