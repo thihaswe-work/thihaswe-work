@@ -53,7 +53,7 @@
 ### 📬 Contact
 
 - 🌐 Portfolio: [khamenkhai.dev](https://thihaswe.vercel.app/)
-- 📧 Email: [khamenkhai7310@gmail.com](mailto:thihaswe-work@gmail.com)
+- 📧 Email: [khamenkhai7310@gmail.com](mailto:thihaswe-work@gmail.com) 
 - 💼 LinkedIn: [linkedin.com/in/khamenkhai](https://www.linkedin.com/in/thihaswe)
 
 
