@@ -54,7 +54,7 @@
 
 - 🌐 Portfolio: [thiha's portfolio](https://thihaswe.vercel.app/)
 - 📧 Email: [thiha's gmail](mailto:thihaswe-work@gmail.com) 
-- 💼 LinkedIn: [thiha's linkedIn](https://mm.linkedin.com/in/thiha-swe))
+- 💼 LinkedIn: [thiha's linkedIn](https://mm.linkedin.com/in/thiha-swe)
 
 
 
