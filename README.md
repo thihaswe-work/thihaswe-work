@@ -5,6 +5,10 @@
 - 💞️ I’m looking to collaborate on **open source**
 - 📫 How to reach me: you can message me
 - 😄 Pronouns: **thiha**
+- 🏗️ Focus: Clean Architecture & Scalable Microservices
+🎨 Philosophy: Blending Logic with Minimalist UI
+🚀 Vibe: Building Real-World Solutions with High Performance
+
 - ⚡ Fun fact: I like to **code** and drink **juices**
 
 ---
